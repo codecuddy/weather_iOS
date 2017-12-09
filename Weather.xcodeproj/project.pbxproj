@@ -14,6 +14,7 @@
 		AF9310141FD9014E001A22DE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF9310121FD9014E001A22DE /* LaunchScreen.storyboard */; };
 		AF93101F1FD9014E001A22DE /* WeatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF93101E1FD9014E001A22DE /* WeatherTests.swift */; };
 		AF93102A1FD9014E001A22DE /* WeatherUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF9310291FD9014E001A22DE /* WeatherUITests.swift */; };
+		AF93103C1FDA22FD001A22DE /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AF93103B1FDA22FC001A22DE /* background.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		AF9310251FD9014E001A22DE /* WeatherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeatherUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF9310291FD9014E001A22DE /* WeatherUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherUITests.swift; sourceTree = "<group>"; };
 		AF93102B1FD9014E001A22DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF93103B1FDA22FC001A22DE /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				AF93100B1FD9014E001A22DE /* ViewController.swift */,
 				AF93100D1FD9014E001A22DE /* Main.storyboard */,
 				AF9310101FD9014E001A22DE /* Assets.xcassets */,
+				AF93103B1FDA22FC001A22DE /* background.jpg */,
 				AF9310121FD9014E001A22DE /* LaunchScreen.storyboard */,
 				AF9310151FD9014E001A22DE /* Info.plist */,
 			);
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AF9310141FD9014E001A22DE /* LaunchScreen.storyboard in Resources */,
+				AF93103C1FDA22FD001A22DE /* background.jpg in Resources */,
 				AF9310111FD9014E001A22DE /* Assets.xcassets in Resources */,
 				AF93100F1FD9014E001A22DE /* Main.storyboard in Resources */,
 			);
